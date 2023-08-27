@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo Perrino</h1>
-<h3 align="center">Software Engineer from Spain</h3>
+<h1>Hi 👋, I'm Eduardo Perrino</h1>
+<h3>Software Engineer</h3>
 
 - 🔭 I’m currently working on [Factorial HR](https://factorialhr.com/)
 
@@ -12,10 +12,6 @@
 - 📫 How to reach me **eduardo.perrino@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eduardoperrino/](https://www.linkedin.com/in/eduardoperrino/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

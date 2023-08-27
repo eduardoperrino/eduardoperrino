@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm Eduardo Perrino</h1>
-<h3>Software Engineer</h3>
+## Hi 👋, I'm Eduardo Perrino <br><sup>Software Programmer ⛄</sup>
 
 - 🔭 I’m currently working on [Factorial HR](https://factorialhr.com/)
 

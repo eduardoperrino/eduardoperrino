@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **eduardo.perrino@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eduardoperrino/](https://www.linkedin.com/in/eduardoperrino/)
+- 🎒Know about my experiences [https://www.linkedin.com/in/eduardoperrino/](https://www.linkedin.com/in/eduardoperrino/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

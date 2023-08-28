@@ -1,12 +1,12 @@
-## Hi 👋, I'm Eduardo Perrino <br><sup>Software Programmer ⛄</sup>
+## Hi 👋, I'm Eduardo Perrino
 
-- 🔭 I’m currently working on [Factorial HR](https://factorialhr.com/)
+- 🔭 I’m currently working on [Factorial HR](https://factorialhr.com/) as Staff Engineer
+    <p align="left"><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+- 🌱 I’m currently learning **real-time, distributed systems and Kubernetes**
 
-- 🌱 I’m currently learning **distributed systems, realtime and ruby (and Rails)**
+- 👯 I’m looking to collaborate on *Software Engineering/Development**
 
-- 👯 I’m looking to collaborate on **software development**
-
-- 📝 I regularly write articles on [https://medium.com/@eduardoperrino](https://medium.com/@eduardoperrino)
+- 📝 I try to write articles on [https://medium.com/@eduardoperrino](https://medium.com/@eduardoperrino)
 
 - 📫 How to reach me **eduardo.perrino@gmail.com**
 
